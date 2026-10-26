@@ -59,7 +59,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 
 ## 💻 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellxyzzz&layout=compact&theme=default&langs_count=6&hide_border=false&card_width=900&title_color=3B82F6&text_color=4B5563&bg_color=FFFBFC)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellxyzzz&layout=compact&theme=default&langs_count=6)
 
 ⸻
 
