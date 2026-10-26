@@ -39,7 +39,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
   </a>
   
   <a href="https://wa.me/85357968828">
-    <img src="https://img.shields.io/badge/WhatsApp-Hubungi Saya-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Hubungi Saya-25D366?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
   <a href="https://wa.me/85357968828">
