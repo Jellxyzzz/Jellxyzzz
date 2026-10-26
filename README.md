@@ -19,7 +19,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 
 ## 🛠️ Tech Stack:
 
-p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -32,7 +32,7 @@ p align="left">
 
 ⸻
 
-## 🌐 Temukan Saya
+## 🌐 Socials:
   
   <a href="https://www.tiktok.com/@jeeeellll.__">
     <img src="https://img.shields.io/badge/TikTok-jeeeellll.__-black?style=for-the-badge&logo=tiktok&logoColor=black" />
@@ -49,15 +49,15 @@ p align="left">
 
 ⸻
 
-## 🏆 Pencapaian GitHub
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jellxyzzz&theme=onedark&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jellxyzzz&theme=onedark&no-frame=true&no-bg=true"/>
 </p>
 
 ## 📈 GitHub Stats:
 
-![Jellxyzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=Jellxyzzz&show_icons=true&bg_color=00000000))
+![Jellxyzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=Jellxyzzz&show_icons=true&bg_color=00000000)
 
 ## 💻 Most Used Languages:
 
