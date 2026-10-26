@@ -57,7 +57,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 
 📈 Statistik GitHub
 
-![Jellxyzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=Jellxyzzz&show_icons=true&theme=transparent)
+![Jellxyzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=Jellxyzzz&show_icons=true&bg_color=00000000))
 
 💻 Bahasa Pemrograman yang Paling Sering Digunakan
 
