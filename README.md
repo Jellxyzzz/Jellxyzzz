@@ -39,7 +39,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
   </a>
   
   <a href="https://youtube.com/@rajell">
-    <img src="https://img.shields.io/badge/youtube-rajell-25D366?style=for-the-badge&logo=youtube&logoColor=red" />
+    <img src="https://img.shields.io/badge/youtube-rajell-5865F2?style=for-the-badge&logo=youtube&logoColor=red" />
   </a>
 
   <a href="https://wa.me/85357968828">
