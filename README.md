@@ -38,8 +38,8 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
     <img src="https://img.shields.io/badge/TikTok-jeeeellll.__-5865F2?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   
-  <a href="https://wa.me/85357968828">
-    <img src="https://img.shields.io/badge/WhatsApp-Hubungi Saya-25D366?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://youtube.com/@rajell">
+    <img src="https://img.shields.io/badge/WhatsApp-rajell-25D366?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
   <a href="https://wa.me/85357968828">
