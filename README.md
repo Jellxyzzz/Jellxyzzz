@@ -49,12 +49,6 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 
 ⸻
 
-📊 Profil GitHub
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jellxyzzz&label=Jumlah%20Kunjungan%20Profil&color=blueviolet&style=flat" />
-</p>
-
 🏆 Pencapaian GitHub
 
 <p align="center">
