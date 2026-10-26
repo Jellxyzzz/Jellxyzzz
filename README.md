@@ -35,7 +35,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 🌐 Temukan Saya
   
   <a href="https://discord.com/users/1116402030332891176">
-    <img src="https://img.shields.io/badge/TikTok-Rajell-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-Rajell-5865F2?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   
   <a href="https://wa.me/85357968828">
