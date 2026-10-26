@@ -12,7 +12,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 * 🌱 Sedang mempelajari Node.js, Python, Pawn, C++, HTML, CSS, dan JavaScript
 * 💻 Tertarik pada Front-End Development dan SA-MP Development
 * 💬 Silakan berdiskusi dengan saya tentang Pawn, JavaScript, dan Python
-* 📫 Hubungi saya melalui: support@panntzyy.my.id
+* 📫 Hubungi saya melalui discord: https://discord.gg/gNwc47m3QP 
 * ⚡ Fakta menarik: Saya suka mengubah ide menjadi kode!
 
 ⸻
