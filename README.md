@@ -51,9 +51,6 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jellxyzzz&theme=onedark&no-frame=true&no-bg=true"/>
-</p>
 
 ## 📈 GitHub Stats:
 
@@ -61,9 +58,7 @@ Saya mulai belajar pemrograman karena tertarik membangun berbagai proyek, teruta
 
 ## 💻 Most Used Languages:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellxyzzz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellxyzzz&stats_format=bytes)
 
 ⸻
 
